@@ -52,3 +52,35 @@ This project is a PHP-based e-commerce web application for a plant nursery, allo
 
 ## Folder Structure
 
+plant-nursery-app/
+├── css/
+│   └── style.css           # Custom CSS for styling
+├── images/                 # Folder for images
+├── js/
+│   └── script.js           # JavaScript functionality
+├── config.php              # Database connection
+├── index.php               # Homepage
+├── login.php               # Login page
+├── register.php            # Registration page
+├── cart.php                # Cart page
+├── checkout.php            # Checkout page
+├── orders.php              # Orders page
+└── README.md               # Project documentation
+
+
+## Technologies Used
+
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: PHP
+- **Database**: MySQL
+- **Session Management**: PHP sessions
+
+## Contributing
+
+Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+
