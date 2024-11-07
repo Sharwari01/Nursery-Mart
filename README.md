@@ -7,7 +7,6 @@ This project is a PHP-based e-commerce web application for a plant nursery, allo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,23 +48,6 @@ This project is a PHP-based e-commerce web application for a plant nursery, allo
 4. **Checkout**: Fill in delivery details and place an order.
 5. **Order Confirmation**: View all placed orders in the "Orders" section.
 6. **Contact**: Reach out to the nursery through the contact form.
-
-## Folder Structure
-
-plant-nursery-app/
-├── css/
-│   └── style.css           # Custom CSS for styling
-├── images/                 # Folder for images
-├── js/
-│   └── script.js           # JavaScript functionality
-├── config.php              # Database connection
-├── index.php               # Homepage
-├── login.php               # Login page
-├── register.php            # Registration page
-├── cart.php                # Cart page
-├── checkout.php            # Checkout page
-├── orders.php              # Orders page
-└── README.md               # Project documentation
 
 
 ## Technologies Used
